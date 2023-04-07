@@ -1,0 +1,15 @@
+E:\PBO\New folder\Tugas_PBO_PR\Tugas_PBO_PR\obj\Debug\net6.0\Tugas_PBO_PR.csproj.AssemblyReference.cache
+E:\PBO\New folder\Tugas_PBO_PR\Tugas_PBO_PR\obj\Debug\net6.0\Tugas_PBO_PR.GeneratedMSBuildEditorConfig.editorconfig
+E:\PBO\New folder\Tugas_PBO_PR\Tugas_PBO_PR\obj\Debug\net6.0\Tugas_PBO_PR.AssemblyInfoInputs.cache
+E:\PBO\New folder\Tugas_PBO_PR\Tugas_PBO_PR\obj\Debug\net6.0\Tugas_PBO_PR.AssemblyInfo.cs
+E:\PBO\New folder\Tugas_PBO_PR\Tugas_PBO_PR\obj\Debug\net6.0\Tugas_PBO_PR.csproj.CoreCompileInputs.cache
+E:\PBO\New folder\Tugas_PBO_PR\Tugas_PBO_PR\bin\Debug\net6.0\Tugas_PBO_PR.exe
+E:\PBO\New folder\Tugas_PBO_PR\Tugas_PBO_PR\bin\Debug\net6.0\Tugas_PBO_PR.deps.json
+E:\PBO\New folder\Tugas_PBO_PR\Tugas_PBO_PR\bin\Debug\net6.0\Tugas_PBO_PR.runtimeconfig.json
+E:\PBO\New folder\Tugas_PBO_PR\Tugas_PBO_PR\bin\Debug\net6.0\Tugas_PBO_PR.dll
+E:\PBO\New folder\Tugas_PBO_PR\Tugas_PBO_PR\bin\Debug\net6.0\Tugas_PBO_PR.pdb
+E:\PBO\New folder\Tugas_PBO_PR\Tugas_PBO_PR\obj\Debug\net6.0\Tugas_PBO_PR.dll
+E:\PBO\New folder\Tugas_PBO_PR\Tugas_PBO_PR\obj\Debug\net6.0\refint\Tugas_PBO_PR.dll
+E:\PBO\New folder\Tugas_PBO_PR\Tugas_PBO_PR\obj\Debug\net6.0\Tugas_PBO_PR.pdb
+E:\PBO\New folder\Tugas_PBO_PR\Tugas_PBO_PR\obj\Debug\net6.0\Tugas_PBO_PR.genruntimeconfig.cache
+E:\PBO\New folder\Tugas_PBO_PR\Tugas_PBO_PR\obj\Debug\net6.0\ref\Tugas_PBO_PR.dll
