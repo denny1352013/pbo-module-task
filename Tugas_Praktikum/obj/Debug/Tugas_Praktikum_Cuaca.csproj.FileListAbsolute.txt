@@ -1,0 +1,16 @@
+C:\Users\Deny\Downloads\Compressed\WeatherApp2-master\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\Deny\Downloads\Compressed\WeatherApp2-master\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\Deny\Downloads\Compressed\WeatherApp2-master\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\Deny\Downloads\Compressed\WeatherApp2-master\WeatherApp\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Deny\Downloads\Compressed\WeatherApp2-master\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Deny\Downloads\Compressed\WeatherApp2-master\WeatherApp\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Deny\Downloads\Compressed\WeatherApp2-master\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Deny\Downloads\Compressed\WeatherApp2-master\WeatherApp\obj\Debug\Tugas_Praktikum_Cuaca.csproj.AssemblyReference.cache
+C:\Users\Deny\Downloads\Compressed\WeatherApp2-master\WeatherApp\obj\Debug\Tugas_Praktikum_Cuaca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deny\Downloads\Compressed\WeatherApp2-master\WeatherApp\obj\Debug\WeatherApp.Form1.resources
+C:\Users\Deny\Downloads\Compressed\WeatherApp2-master\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\Deny\Downloads\Compressed\WeatherApp2-master\WeatherApp\obj\Debug\Tugas_Praktikum_Cuaca.csproj.GenerateResource.cache
+C:\Users\Deny\Downloads\Compressed\WeatherApp2-master\WeatherApp\obj\Debug\Tugas_Praktikum_Cuaca.csproj.CoreCompileInputs.cache
+C:\Users\Deny\Downloads\Compressed\WeatherApp2-master\WeatherApp\obj\Debug\Tugas_Praktikum_Cuaca.csproj.CopyComplete
+C:\Users\Deny\Downloads\Compressed\WeatherApp2-master\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\Deny\Downloads\Compressed\WeatherApp2-master\WeatherApp\obj\Debug\WeatherApp.pdb
